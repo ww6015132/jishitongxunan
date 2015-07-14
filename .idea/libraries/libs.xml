@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/universal-image-loader-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/locSDK_3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/easemobchat_2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/Baidu-Frontia-Android-2.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android应用源码类似QQ陌陌的即时通讯源码/zaina-master/libs/baidumapapi_v2_1_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
